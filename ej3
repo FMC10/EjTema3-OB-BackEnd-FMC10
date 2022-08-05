@@ -1,0 +1,22 @@
+int main = param1 + param2 + param3
+      int param1 = 10
+      int param2 = 20
+      int param2 = 30
+      System.out.printLn(main)
+      
+      
+      
+public class main {
+  public static void main(String[] args) {
+    coche micoche = new coche();
+    public void sumarpuerta()
+    public void sumarpuerta()
+    public void sumarpuerta()
+    public void sumarpuerta()   
+     System.out.printLn(micoche.puertas)
+  }
+Class coche {    
+  int puerta=0;
+  }
+  
+  
