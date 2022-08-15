@@ -1,0 +1,35 @@
+//EJERCICIO TEMA 8:
+
+Class Persona {
+    private Int edad;
+    private String nombre;
+    private String telefono;
+
+    public void setEdad (int edad) {
+        this.edad = edad;
+    }
+    public void int getEdad() {
+        return this.edad
+        
+    public void setNombre (String nombre) {
+        this.nombre = nombre;
+    }
+    public void int getNombre() {
+        return this.nombre
+        
+    public void setTelefono (String telefono) {
+            this.telefono = telefono;
+    }
+    public void int getTelefono() {
+        return this.Telefono
+    }  
+    
+    public static void main (string[] args) {
+        persona persona1 = new persona();
+        persona1.setEdad ("22"); 
+        persona1.setNombre ("Borja");
+        persona1.setTelefono ("652-659874");
+        
+    System.out.println(persona1.getEdad());
+    System.out.println(persona1.getNombre());
+    System.out.println(persona1.getTelefono());
