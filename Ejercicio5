@@ -1,0 +1,12 @@
+class Vehiculo
+color=Color()
+ruedas=Ruedas()
+puerta=Puerta()
+
+class Coche(Vehiculo)
+velocidad=velocidad
+cilindrada=cilindrada
+
+Tractor=Coche
+
+Print(Coche)
